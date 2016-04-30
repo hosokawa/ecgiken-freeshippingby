@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+       <ECGiken_FreeShippingBy>
+          <version>0.1.0</version>
+       </ECGiken_FreeShippingBy>
+    </modules>
+    <frontend>
+        <layout>
+            <updates>
+                <ecgiken_freeshippingby>
+                    <file>ecgiken/freeshippingby.xml</file>
+                </ecgiken_freeshippingby>
+            </updates>
+        </layout>
+    </frontend>
+</config>

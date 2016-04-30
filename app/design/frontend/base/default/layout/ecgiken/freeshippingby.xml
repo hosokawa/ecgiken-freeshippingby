@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <checkout_cart_index>
+        <reference name="head">
+            <action method="addItem"><type>skin_css</type><name>css/ecgiken/freeshippingby.css</name></action>
+        </reference>
+        <reference name="content">
+            <block type="core/template" name="ecgiken.freeshippingby.checkout.cart" before="-" template="ecgiken/freeshippingby/message.phtml"/>
+        </reference>
+    </checkout_cart_index>
+</layout>
