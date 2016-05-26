@@ -1,5 +1,6 @@
-app/code/community/ECGiken/FreeShippingBy/etc/config.xml app/code/community/ECGiken/FreeShippingBy/etc/config.xml
+app/code/community/ECGiken/FreeShippingBy app/code/community/ECGiken/FreeShippingBy
 app/design/frontend/base/default/layout/ecgiken/freeshippingby.xml app/design/frontend/base/default/layout/ecgiken/freeshippingby.xml
-app/design/frontend/base/default/template/ecgiken/freeshippingby/message.phtml app/design/frontend/base/default/template/ecgiken/freeshippingby/message.phtml
+app/design/frontend/base/default/template/ecgiken/freeshippingby app/design/frontend/base/default/template/ecgiken/freeshippingby
 app/etc/modules/ECGiken_FreeShippingBy.xml app/etc/modules/ECGiken_FreeShippingBy.xml
+app/locale/ja_JP/ECGiken_FreeShippingBy.csv app/locale/ja_JP/ECGiken_FreeShippingBy.csv
 skin/frontend/base/default/css/ecgiken/freeshippingby.css skin/frontend/base/default/css/ecgiken/freeshippingby.css

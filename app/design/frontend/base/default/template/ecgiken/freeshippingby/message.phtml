@@ -1,3 +1,5 @@
+<?php if ($this->isDisplayRestBlock()): ?>
 <div class="ecgiken-freeshippingby-message">
-<p>あと<span>xx</span>円で送料無料！！</p>
+<p><?php echo $this->__('You can get free shipping! Add more products in your cart, rest %s!!', $this->getRestYen()) ?></p>
 </div>
+<?php endif; ?>

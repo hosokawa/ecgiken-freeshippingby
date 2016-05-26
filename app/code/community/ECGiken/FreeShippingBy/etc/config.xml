@@ -13,5 +13,21 @@
                 </ecgiken_freeshippingby>
             </updates>
         </layout>
+        <translate>
+            <modules>
+                <ECGiken_FreeShippingBy>
+                    <files>
+                        <default>ECGiken_FreeShippingBy.csv</default>
+                    </files>
+                </ECGiken_FreeShippingBy>
+            </modules>
+        </translate>
     </frontend>
+    <global>
+        <blocks>
+            <ecgiken_freeshippingby>
+                <class>ECGiken_FreeShippingBy_Block</class>
+            </ecgiken_freeshippingby>
+        </blocks>
+    </global>
 </config>
